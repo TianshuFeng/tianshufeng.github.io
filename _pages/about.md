@@ -1,25 +1,30 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Systems Engineering and Operations Research, George Mason University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Nguyen Engineering Building</p>
+    <p>George Mason University</p>
+    <p>Fairfax, VA 22030</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an assistant professor in the [Department of Systems Engineering and Operations Research at the George Mason University](https://seor.gmu.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on the development and application of methods involved in processing, visualizing, analyzing, modeling, and examining data with complex features in various areas, such as transportation, bioinformatics, healthcare, and finance. Specifically, I am interested in:
+ - Machine learning and statistical modeling
+ - Explainable AI
+ - Model fairness and robustness
+ - Data exploration
+ - Active learning
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**I am looking for highly-motivated students who have a strong background in machine learning and statistics to join my team. Ph.D. students will be fully funded. If you are interested, please send your CV and transcript to my email.**
