@@ -21,10 +21,8 @@ social: true  # includes social icons at the bottom of the page
 I am an assistant professor in the [Department of Systems Engineering and Operations Research at the George Mason University](https://seor.gmu.edu/).
 
 My research focuses on the development and application of methods involved in processing, visualizing, analyzing, modeling, and examining data with complex features in various areas, such as transportation, bioinformatics, healthcare, and finance. Specifically, I am interested in:
- - Machine learning and statistical modeling
+ - Machine Learning and Statistical Modeling
+ - AI for Science
  - Explainable AI
- - Model fairness and robustness
- - Data exploration
- - Active learning
 
 **I am looking for highly-motivated students who have a strong background in machine learning and statistics to join my team. Ph.D. students will be fully funded. If you are interested, please send your CV and transcript to my email.**

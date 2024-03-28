@@ -9,6 +9,8 @@ nav_order: 5
 
 ## Lecturer
 Systems Engineering and Operations Research, George Mason University
+ - OR 610 Deep Learning, Spring 2024
+ - OR/MATH 441 Deterministic Optimization, Fall 2023
  - OR 610 Deep Learning, Spring 2023
  - OR/MATH 441 Deterministic Optimization, Fall 2022
 
